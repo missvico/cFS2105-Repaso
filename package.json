@@ -1,0 +1,24 @@
+{
+  "name": "cfs2105-repaso",
+  "version": "1.0.0",
+  "description": "Ejercitacion clase de repaso - certificacion Full Stack MundosE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-compile": "sass stylesheets/sass/index.scss stylesheets/css/index.css",
+    "sass-watch": "sass --watch stylesheets/sass:stylesheets/css --no-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missvico/cFS2105-Repaso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missvico/cFS2105-Repaso/issues"
+  },
+  "homepage": "https://github.com/missvico/cFS2105-Repaso#readme",
+  "devDependencies": {
+    "sass": "^1.48.0"
+  }
+}
